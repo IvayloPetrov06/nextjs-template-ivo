@@ -41,7 +41,7 @@ export default function Home() {
       </div>
 
       <div className="container">
-        <h2 className="section-title">Gallery</h2>
+        <h2 className="section-title">Меню</h2>
         <div className="gallery">
           <img className="gallery-image" src="/image04.jpg" alt="image01" />
           <img className="gallery-image" src="/image03.jpg" alt="image01" />
@@ -53,46 +53,34 @@ export default function Home() {
       </div>
 
       <div className="container">
-        <h2 className="section-title">Our clients</h2>
+        <h2 className="section-title">Нашите клиенти</h2>
         <div className="card-container">
           <div className="card">
-            <img className="avatar" src="/avatar.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <img className="avatar" src="/shaq.jpg" alt="avatar" />
+            <h3 className="card-name">Shaq</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
-              pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
-              minima perferendis numquam. Aliquam esse non possimus mollitia,
-              quisquam atque! Explicabo, hic?
+              Най-добрите!
             </p>
           </div>
           <div className="card">
-            <img className="avatar" src="/avatar.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <img className="avatar" src="/kobe.jpg" alt="avatar" />
+            <h3 className="card-name">Kobe</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
-              pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
-              minima perferendis numquam. Aliquam esse non possimus mollitia,
-              quisquam atque! Explicabo, hic?
+              Храната ми беше студена, но сервитьорите бяха много мили. 7/10.
             </p>
           </div>
           <div className="card">
-            <img className="avatar" src="/avatar.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <img className="avatar" src="/obama.jpg" alt="avatar" />
+            <h3 className="card-name">Barak Obama</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
-              pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
-              minima perferendis numquam. Aliquam esse non possimus mollitia,
-              quisquam atque! Explicabo, hic?
+              Уникално преживяване! Една от последните добри вериги за хранене в нашата страна!
             </p>
           </div>
           <div className="card">
-            <img className="avatar" src="/avatar.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <img className="avatar" src="/morgan.jpg" alt="avatar" />
+            <h3 className="card-name">Morgan Freeman</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
-              pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
-              minima perferendis numquam. Aliquam esse non possimus mollitia,
-              quisquam atque! Explicabo, hic?
+              Т о р т и л а.
             </p>
           </div>
         </div>
