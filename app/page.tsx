@@ -12,37 +12,31 @@ export default function Home() {
           <img className="image" src="/image01.jpg" alt="image01" />
         </div>
         <div className="column-half">
-          <h2 className="section-title">Introduction</h2>
+          <h2 className="section-title">Пикантна Тортила</h2>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis
-            reiciendis alias saepe nam atque molestias, perspiciatis itaque, ad
-            perferendis minus odio laborum dolore, aliquid natus non quia
-            debitis at omnis!
+          Насладете се на новата пикантна тортила със зашеметяващ вкус.
+          Тя садържа тасманийска пикантна чушка, кисели краставички, гръцки маслини и царевица.
+          Имате възможността да избирате между пилешко, свинско и месо от лъв.
           </p>
         </div>
       </div>
 
       <div className="columns">
         <div className="column-half">
-          <h2 className="section-title">Some more info</h2>
+          <h2 className="section-title">Пържени картофи</h2>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis
-            reiciendis alias saepe nam atque molestias, perspiciatis itaque, ad
-            perferendis minus odio laborum dolore, aliquid natus non quia
-            debitis at omnis!
+            Новите пържени картофи, вече с повече подправки.
           </p>
         </div>
         <div className="column-half">
-          <img className="image" src="/image01.jpg" alt="image01" />
+          <img className="image" src="/image02.jpg" alt="image01" />
         </div>
       </div>
 
       <div className="container">
-        <h2 className="section-title">Some text</h2>
+        <h2 className="section-title">Още оферти</h2>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci,
-          incidunt! Eius iste omnis unde maxime ut quidem. Eos, dolore
-          repellendus ipsum voluptas possimus et dicta at ad nihil sit officiis!
+          Потърсете още уникални оферти. Очакваме ви!
         </p>
       </div>
 
