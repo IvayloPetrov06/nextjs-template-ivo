@@ -110,8 +110,7 @@ footer {
 
 .card-container {
   display: flex;
-  justify-content: center;
-  align-items: start;
+  flex-wrap: wrap;
 }
 
 .card {
@@ -119,7 +118,7 @@ footer {
   flex-direction: column;
   align-items: center;
   max-width: 300px;
-  border: 1px solid #ff8800;
+  border: 1px solid ;
   margin: 5px;
   padding: 5px;
   border-radius: 5px;
@@ -163,8 +162,9 @@ footer {
   }
 
   .card-container {
-    flex-direction: column;
-    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: start;
   }
 
   .container {
