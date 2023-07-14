@@ -49,12 +49,12 @@ export default function Home() {
       <div className="container">
         <h2 className="section-title">Gallery</h2>
         <div className="gallery">
-          <img className="gallery-image" src="/image01.jpg" alt="image01" />
+          <img className="gallery-image" src="/image04.jpg" alt="image01" />
+          <img className="gallery-image" src="/image03.jpg" alt="image01" />
           <img className="gallery-image" src="/image02.jpg" alt="image01" />
           <img className="gallery-image" src="/image01.jpg" alt="image01" />
-          <img className="gallery-image" src="/image01.jpg" alt="image01" />
-          <img className="gallery-image" src="/image01.jpg" alt="image01" />
-          <img className="gallery-image" src="/image01.jpg" alt="image01" />
+          <img className="gallery-image" src="/image04.jpg" alt="image01" />
+          <img className="gallery-image" src="/image03.jpg" alt="image01" />
         </div>
       </div>
 
