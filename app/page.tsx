@@ -37,7 +37,7 @@ export default function Home() {
         <h2 className="section-title">Още оферти</h2>
         <p className="textcenter">
           Потърсете още уникални оферти в нашето мобилно приложение.
-           И не забравяите да използвате код "Clasher" в Ozone.bg за отстъпка на всички продукти до 5%.
+           И не забравяите да използвате код &quot;Clasher в Ozone.bg за отстъпка на всички продукти до 5%.
             Очакваме ви!
         </p>
       </div>
