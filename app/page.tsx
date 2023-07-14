@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <div className="cover">
-        <h1 className="title">Enter your title</h1>
+        <h1 className="title">НАМАЛЕНИЕ</h1>
       </div>
 
       <div className="columns">
@@ -35,8 +35,10 @@ export default function Home() {
 
       <div className="container">
         <h2 className="section-title">Още оферти</h2>
-        <p>
-          Потърсете още уникални оферти. Очакваме ви!
+        <p className="textcenter">
+          Потърсете още уникални оферти в нашето мобилно приложение.
+           И не забравяите да използвате код "Clasher" в Ozone.bg за отстъпка на всички продукти до 5%.
+            Очакваме ви!
         </p>
       </div>
 
